@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Indie+Flower&family=Kalam:wght@300;400&family=Karla:ital,wght@1,300&family=Lobster&family=Rubik+80s+Fade&family=Rubik+Gemstones&family=Rubik+Spray+Paint&family=Sevillana&family=Slabo+27px&display=swap');
+
+</style> {
+    margin: auto;
+    padding: auto;
+}
+
+.top {
+    width: 100%;
+    background-color: green;
+    border-bottom: 2px solid;
+}
+
+.top div {
+    width: 1200px;
+    color: white;
+    background-color: green;
+    padding: 10px;
+    text-align: right;
+}
+
+i {
+    padding: 10px;
+}
+
+logo {
+    width: 100%;
+    background-color: ;
+
+}
+
+imag {
+    height: 100px;
+    width: 200px;
+}
+
+#center {
+    text-align: center;
+}
+
+.logo div {
+    background-color: green;
+    font-family: calibri;
+    padding: 10px;
+    text-align: end;
+}
+
+.logo div a {
+    padding: 10px;
+    background-color: green;
+    text-decoration: none;
+    color: white;
+}
+
+.KNOW {
+    position: absolute;
+    left: 1230px;
+    top: 18px;
+    background-color: green;
+    color: white;
+    width: 96px;
+    height: 29px;
+    border: green 1px;
+    font-family: calibri;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.KNOW:hover {
+    color: green;
+    background-color: white;
+    border: green 3px solid;
+}
+
+imge {
+    width: 100%;
+}
+
+h1 {
+    width: 100%;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    color: green;
+    font-size: 40px;
+    text-align: left;
+    margin-left: 10px;
+
+}
+
+p {
+    padding-top: 20px;
+    width: 1200px;
+    text-align: justify;
+    color: black;
+    font-family: 'Kalam', cursive;
+    font-size: 20px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    text-align: justify;
+    width: 65%;
+}
+
+
+.services {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.ser {
+    width: 300px;
+    height: 550px;
+    background-color: white;
+    padding: auto;
+}
+
+.ser:hover {
+    background-color: rgba(95, 149, 188, 0.117);
+
+}
+
+.serimg {
+    width: 300px;
+    height: 275px;
+}
+
+.serh2 {
+    text-align: center;
+    font-family: calibri;
+}
+
+.serp {
+    padding: 10px;
+    text-align: center;
+}
+
+.btndiv {
+    padding-left: 20px;
+
+}
+
+.serbtn {
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+.serbtn:hover {
+    background-color: white;
+    color: green;
+    border: green 2px solid;
+text-align: center;
+}
+
+
+
+.serh2 {
+    padding-top: 10px;
+}
+
+.serp {
+    font-family:'Slabo 27px', serif; ;
+}
+
+h2 {
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-family: calibri;
+}
+
+.middle-right {
+
+
+    color: green;
+    font-family: 'Kalam', cursive;
+    font-size: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-align: left;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+#D1 {
+    height: 500px;
+    width: 50%;
+}
+
+#D2 {
+    height: 500px;
+    width: 50%;
+}
+
+.bottom_up{
+	width:75%
+	background-color:;
+	
+}
+.bottom_up div{
+	
+	width:1600px;
+	text-align:center;
+	background-color:;
+	font-family:'Slabo 27px', serif;
+	font-size:30px;
+	padding-bottom:20px;
+}
+.bottom_up div table{
+	padding-top:30px;
+	font-size:30px;
+	width:1100px;
+	text-align:center;
+	background-color:;
+	font-family:calibri;
+	
+}
+
+input[type="text"]{
+	padding:10px;
+	width:200px;
+}
+
+textarea{
+	padding:50px;
+	width:400px;
+    color: gray;
+    font-family: calibri;
+    font-size: 18px;
+}
+.b2{
+	width:300px;
+	padding:10px;
+	color:white;
+	font-size:15px;
+	background-color:green
+}
+
+
+.final
+{
+    /* width:121%; */
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color:rgba(214, 159, 119, 0.145);
+}
+.coll
+{   margin-top: 30px;
+    width:300px;
+    height:150px ;
+    padding-left: 10px;
+    font-family:'Slabo 27px', serif ;
+    
+}
+.contact
+{
+    
+    padding-top: 10px;
+    width:100%;
+    display: flex;
+    justify-content:center;
+}
+
